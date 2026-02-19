@@ -1,0 +1,77 @@
+﻿Sample Point;Sample Point Omschrijving;Lambert X;Lambert Y;Waterloop;Bekken;Gemeente;WL code;WL naam
+BI12000;Philippine,Isabellahaven,Dijckmeesterweg;604324;718845;LEOPOLDKANAAL;Bekken van de Gentse Kanalen;;VL08_172;LEOPOLDKANAAL I
+BI122;Watersportlaan;536338;704531;IJZER - HAVEN VAN NIEUWPOORT;IJzerbekken;Nieuwpoort;VL17_15;HAVENGEUL IJZER
+BI122050;Ophoven, Maasdijk, tgo vaarschool Limburg-Marec (km 60,5);751851;703138;MAAS - GEMEENSCHAPPELIJKE MAAS NOORD - GEMEENSCHAPPELIJKE MAAS IN LIMBURG - GRENSMAAS;Maasbekken;Kinrooi;VL11_203;MAAS I+II+III
+BI154100;"Zandvliet, grens Doel; vaargeul midden Schelde thv P boei";641070;727032;ZEESCHELDE - BENEDEN-ZEESCHELDE;Benedenscheldebekken;Antwerpen;VL17_43;ZEESCHELDE IV
+BI162000;Kallebeekstraat, thv veerpont Hemiksem - Kruibeke (Bazel);647324;703675;ZEESCHELDE - BENEDEN-ZEESCHELDE;Benedenscheldebekken;Hemiksem;VL17_42;ZEESCHELDE III + RUPEL
+BI164000;"FC: weg Hamme-Dendermonde, opw brug; BIO 700m afw. aan linkeroever (Grembergen)";632785;692320;ZEESCHELDE - BENEDEN-ZEESCHELDE;Benedenscheldebekken;Dendermonde;VL08_41;ZEESCHELDE II
+BI172100;Zwijnaarde,Zonneputtragel,opw brug;604743;688122;BOVENSCHELDE;Bovenscheldebekken;Gent;VL05_58;BOVEN-SCHELDE IV
+BI174000;Voor-Eine,Ohiostraat,Ohiobrug;597860;673594;BOVENSCHELDE;Bovenscheldebekken;Oudenaarde;VL17_204;BOVEN-SCHELDE II+III
+BI179000;Warcoing,brug Warcoing-Hérinnes,Rue de la Sucrerie-Rue du Rivage;578198;654956;BOVENSCHELDE;Bovenscheldebekken;Pecq;VL08_55;BOVEN-SCHELDE I
+BI195500;Burcht, Borgerweert, afw. weg;648763;711146;LAARBEEK - KLEINE WATERGANG;Benedenscheldebekken;Beveren-Kruibeke-Zwijndrecht;L217_1542;
+BI212000;Battel, Hoge Weg;655007;693501;DIJLE;Dijle- en Zennebekken;Mechelen;VL08_95;GETIJDEDIJLE & GETIJDEZENNE
+BI216000;Werchter, Provinciebaan, afw brug;672864;684042;DIJLE;Dijle- en Zennebekken;Rotselaar;VL08_80;DIJLE IV
+BI221000;Sint-Joris-Weert, Neerijsebaan, opw brug (BBI: + stenen LO afw brug, opw lozing);669300;665853;DIJLE;Dijle- en Zennebekken;Oud-Heverlee;VL05_77;DIJLE I
+BI243200;brug aan pad naar Hazewinkel;650228;695153;ZWARTE BEEK - WAVERSLOOP - AGATBEEK;Benedenscheldebekken;Willebroek;L217_1552;
+BI253000;K. Govaertsstraat-Krombeekweg, afw brug;675725;699237;GROTE NETE - NETE;Netebekken;Heist-op-den-Berg;VL08_132;GETIJDENETES
+BI258000;Amocolaan, langs E313, opw brug en lozing Amoco;693167;700905;GROTE NETE - NETE;Netebekken;Geel;VL11_123;GROTE NETE I
+BI262970;'Rumst, overdekt verbindingskanaal tussen het wachtbekken Eekhoven en de behandelingsbekkens (westelijk);656598;696267;DUFFELSE EN RUMSTSE SCHEIBEEK - DUFFELSE EN RUMSTSE SCHEIDINGSBEEK;Netebekken;Rumst;L217_4567;
+BI274000;Olympiadelaan, opw(BIO) en afw(FC) brug;682377;708598;KLEINE NETE;Netebekken;Herentals;VL11_127;KLEINE NETE II
+BI276700;Retie, watermolen. opw de molen;697756;715125;KLEINE NETE;Netebekken;Retie;VL11_126;KLEINE NETE I
+BI30000;einde Vredekaai,veldweg,thv steiger;610465;710995;KANAAL GENT - TERNEUZEN;Bekken van de Gentse Kanalen;Zelzate;VL11_165;KANAAL GENT-TERNEUZEN + GENTSE HAVENDOKKEN
+BI345000;Eppegem, Brusselsestwg, opw brug;656109;683360;ZENNE;Dijle- en Zennebekken;Zemst;VL05_93;ZENNE II
+BI347800;Ruisbroek, Broekweg, opw brug;645554;664520;ZENNE;Dijle- en Zennebekken;Sint-Pieters-Leeuw;VL08_92;ZENNE I
+BI351000;Kraag, thv. spoorwegbrug(FC), voorbij brug aan verlichtingspaal 11(BIO);649741;695080;KANAAL BRUSSEL-RUPEL - KANAAL VAN BRUSSEL NAAR DE SCHELDE;Benedenscheldebekken;Willebroek;VL22_216;ZEEKANAAL BRUSSEL-SCHELDE - Benedenscheldebekken
+BI377220;"Prov. Sport- & Recreatiecentrum De Nekker (grote vijver); in zwemzone, thv infopaal";659581;690404;DE NEKKER;Dijle- en Zennebekken;Mechelen;NVT;Niet Van Toepassing
+BI390000;Werchter, Veerpont, afw soldatenbrug;674578;684473;DEMER;Demerbekken;Rotselaar;VL05_104;DEMER VII
+BI401000;Munsterbilzen, Rentfortstr, thv Rentfortmolen, afw brug;729421;676376;DEMER;Demerbekken;Bilzen-Hoeselt;VL05_98;DEMER I
+BI433900;Herk-de-Stad, zijweg van Korpsestr (zandpad), opw brug;703863;679319;MELSTERBEEK;Demerbekken;Herk-de-Stad;VL11_207;MELSTERBEEK I+II
+BI435000;Grazen, Galgestr, opw brug;704861;672533;MELSTERBEEK;Demerbekken;Geetbets;VL11_207;MELSTERBEEK I+II
+BI446000;Donk, Zijweg van grote baan N2, to kapel inrijden, na 700 m opw brug;703508;682924;HERK;Demerbekken;Herk-de-Stad;VL05_108;HERK + KLEINE HERK
+BI499500;Sint-Onolfsdijk - Schoolstraat,thv meetstation;629548;691942;DENDER;Benedenscheldebekken;Dendermonde;VL08_71;DENDER V
+BI503500;Erembodegem,Erembodegem-Dorp,opw brug;628299;678915;DENDER;Denderbekken;Aalst;VL05_70;DENDER IV
+BI511000;Overboelare,afw brug Majoor van Lierdelaan;614594;661374;DENDER;Denderbekken;Geraardsbergen;VL05_67;DENDER I
+BI523000;Affligemsestraat-Driesstraat,afw weg,thv handelszaak;630846;675038;BELLEBEEK - HUNSELBEEK - MOLENBEEK;Denderbekken;Liedekerke;VL17_66;BELLEBEEK
+BI570150;"RV: Sport-en Recreatiepark De Blaarmeersen; Zuiderlaan 12,noordelijk deel";602189;692830;BLAARMEERSEN;Bekken van de Gentse Kanalen;Gent;NVT;Niet Van Toepassing
+BI571900;Drongen, Keuzemeersen, goedingestr, brug autosnelweg;599218;691684;LEIE - GRENSLEIE;Leiebekken;Gent;VL17_54;TOERISTISCHE LEIE
+BI573300;Spoorwegbrug;589246;685461;LEIE - GRENSLEIE;Leiebekken;Deinze;VL05_50;LEIE III
+BI581000;Lauwestraat, brug nr Lauwe;566810;666278;LEIE - GRENSLEIE;Leiebekken;Wevelgem;VL17_48;LEIE I
+BI6000;Ramskapelle, Vaartdijk, grens Zeebrugge;570574;724561;LEOPOLDKANAAL;Bekken van de Brugse Polders;Brugge;VL08_173;LEOPOLDKANAAL II
+BI605900;Kachtem, Rumbeeksestraat;566697;680945;MANDEL;Leiebekken;Izegem;VL05_51;MANDEL I
+BI673065;Dranouter, Lettingstraat;538795;663397;LINDEBEEK;Leiebekken;Heuvelland;L217_2451;
+BI680000;Oostduinkerke, Veurnekeiweg, Pelikaan;536547;702487;KANAAL PLASSENDALE-DUINKERKEN - KANAAL VAN NIEUWPOORT NAAR DUINKERKEN (BELGISCH GEDEELTE);IJzerbekken;Koksijde;VL17_161;KANAAL DUINKERKE-NIEUWPOORT
+BI72000;"Nederland; Alphen-Chaam; Galder; Hollandse Dreef, opw Markbrug";678621;744027;MARK - DE MARK;Maasbekken;Hoogstraten;VL11_145;MARK (Maas)
+BI740500;Beekstraat,thv achterzijde Flocart;596270;660364;MOLENBEEK;Bovenscheldebekken;Ronse;L111_1022;MOLENBEEK (RONSE)
+BI765007;Zeebrugge, Alfred Ronsestraat;570605;724380;AFLEIDINGSKANAAL VAN DE LEIE - AFLEIDINGSKANAAL DER LEIE - SCHIPDONKKANAAL;Bekken van de Brugse Polders;Brugge;VL22_218;AFLEIDINGSKANAAL van de LEIE II - Bekken van de Brugse polders
+BI768000;Merendree,Hansbekestraat,Merendreebrug;593945;696243;AFLEIDINGSKANAAL VAN DE LEIE - AFLEIDINGSKANAAL DER LEIE - SCHIPDONKKANAAL;Bekken van de Gentse Kanalen;Deinze;VL05_150;AFLEIDINGSKANAAL van de LEIE/SCHIPDONKKANAAL I
+BI770000;Prins Albertlaan;550840;713396;KANAAL VAN GENT NAAR OOSTENDE;Bekken van de Brugse Polders;Oostende;VL08_164;KANAAL GENT-OOSTENDE III
+BI789420;Spoorwegstraat-Christoffelweg-veldweg langs spoorweg,afw brug (Waalbrug);603711;699517;NIEUWE KALE;Bekken van de Gentse Kanalen;Evergem;VL05_177;NIEUWE KALE
+BI804000;Kaai 601, Afvalpark Lillopark, zijwaarts Evonik;646486;721980;HAVENDOK - KANAALDOK B1 - KANAALDOK B2;Benedenscheldebekken;Antwerpen;VL17_187;ANTWERPSE HAVENDOKKEN + SCHELDE-RIJNVERBINDING
+BI824000;"Kanne, FC: Trekweg op Canne, LO, opw brug; BBI:aan de brug";741871;667353;ALBERTKANAAL;Maasbekken;Riemst;VL22_208;ALBERTKANAAL - Maasbekken
+BI848200;"kanaalpad (noorderlijk); thv kmpaal 32";704495;713806;KANAAL VAN BOCHOLT NAAR HERENTALS;Netebekken;Dessel;VL22_212;KANAAL DESSEL-KWAADMECHELEN + KANAAL DESSEL-SCHOTEN + KANAAL BOCHOLT-HERENTALS - Netebekken
+BI851700;Lozen, Lozerstraat, aan grenspaal en tolkantoor;734835;712558;ZUIDWILLEMSVAART (NOORD);Maasbekken;Bocholt;VL22_221;ZUID-WILLEMSVAART + KANAAL BOCHOLT-HERENTALS (deels) + KANAAL BRIEGDEN-NEERHAREN
+BI877000;Uitkerke, Scharebrugstraat, Scharebrug;562793;720981;BLANKENBERGSEVAART;Bekken van de Brugse Polders;Blankenberge;VL08_16;BLANKENBERGSE VAART + NOORDEDE
+BI91000;Grote Heide, thv natuurreservaat Hageven, opw brug;723943;718089;DOMMEL - BOVEN DOMMEL;Maasbekken;Pelt;VL05_136;DOMMEL
+BI910000;Sint-Joris, Bruggesteenweg, Uniebrug, afw;540317;702997;IJZER - HAVEN VAN NIEUWPOORT;IJzerbekken;Nieuwpoort;VL17_9;IJZER III
+BI916000;Roesbrugge, Bergenstraat, Roesbruggebrug;527249;680306;IJZER - HAVEN VAN NIEUWPOORT;IJzerbekken;Poperinge;VL08_7;IJZER I
+BI946000;Westkaai, Ieperbrug;544800;674538;KANAAL IEPER-IJZER - KANAAL VAN IEPER NAAR DE IJZER;IJzerbekken;Ieper;VL05_166;KANAAL IEPER-IJZER
+BI946600;Prov. domein;549041;667908;KANAAL VAN IEPER NAAR KOMEN;Leiebekken;Ieper;L222_2464;
+BI99900;Kleine Brogel, Molhemstraat, opw weg en lozing veld;724986;706499;PEERDERLOOP;Maasbekken;Peer;L217_5201;
+BIC05.3;;550744;691789;HANDZAMEVAART - SPANJAARDBEEK - DRIELINDENBEEK - ZWAANBEEK - RINGAARTBEEK - BAKVOORDEBEEK;IJzerbekken;Kortemark;VL05_3;HANDZAMEVAART
+BINL-200001;Waterschap Brabantse Delta - Mark en Dintel;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-210002;Waterschap Brabantse Delta - Bovenmark;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-590901;Waterschap Brabantse Delta - Zuiderafwateringskanaal;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-690505;Waterschap Brabantse Delta - Gat van de Ham;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-890306;Waterschap Brabantse Delta - Rietkreek;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oDE_AA_155;Waterschap Aa en Maas - Aa, Kievitsloop. Eeuwselse Loop;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oDE_AA_330;Waterschap Aa en Maas - Aa vanaf Eeuwselse Loop tot Helmond;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oDE_AA_680;Waterschap Aa en Maas - Aa van Gemert tot Den Bosch;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oDIEZE_900;Waterschap Aa en Maas - Dieze;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oGRAARA100;Waterschap Aa en Maas - Graafse Raam;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-OGRMB900;Waterschap Limburg - Groote Molenbeek;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-oHERTWE690;Waterschap Aa en Maas - Hertogswetering;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL-ONEER900;Waterschap Limburg - Neerbeek;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL27_240011;Waterschap De Dommel - Boven Dommel;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL27_240014;Waterschap De Dommel - Tongelreep;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL27_240025;Waterschap De Dommel - Midden- en Beneden Dommel;;;Onbekend;Onbekend;;ONB;Onbekend
+BINL27_240116;Waterschap De Dommel - Nieuwe Leij e.a.;;;Onbekend;Onbekend;;ONB;Onbekend
