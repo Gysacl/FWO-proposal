@@ -28,3 +28,10 @@ tmap_mode("view")+
   tm_shape(VMMlinksf)+
   tm_dots(fill_alpha = 0.5, fill = "blue", size = 0.7)
 
+#test commit/pull
+
+tmap_mode("view")+
+  tm_shape(VMMbiotasf)+
+  tm_dots(fill_alpha = 0.5, fill = "black", size = 0.7)+
+  tm_shape(VMMlinksf)+
+  tm_dots(fill_alpha = 0.5, fill = "blue", size = 0.7)
